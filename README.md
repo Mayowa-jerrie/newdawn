@@ -1,2 +1,1 @@
-# newdawn
-good
+this i a brief directory to my new portfolio file...
